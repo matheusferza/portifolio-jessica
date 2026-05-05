@@ -1,0 +1,27 @@
+{
+  "name": "portfolio-jessica-souza",
+  "version": "1.0.0",
+  "description": "Portfólio profissional de Jéssica Souza, UGC Creator focada em conteúdo autêntico e performance para marcas.",
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "check:js": "node --check script.js"
+  },
+  "keywords": [
+    "portfolio",
+    "ugc",
+    "creator",
+    "landing-page",
+    "html5",
+    "css3",
+    "javascript",
+    "responsive-design",
+    "seo",
+    "github-pages"
+  ],
+  "author": "Matheus Ferza",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
