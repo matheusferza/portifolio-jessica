@@ -1,4 +1,4 @@
-# Portfólio UGC Creator
+# Portfólio UGC
 
 Portfólio profissional desenvolvido para apresentar uma UGC Creator, com foco em conversão, presença digital e comunicação clara para marcas que buscam conteúdo autêntico.
 
@@ -52,10 +52,6 @@ A proposta visual combina uma estética editorial com uma experiência objetiva,
 
 Abra o arquivo `index.html` diretamente no navegador ou publique a pasta em qualquer serviço de hospedagem estática, como GitHub Pages, Netlify ou Vercel.
 
-## Contato configurado
-
-- WhatsApp
-- E-mail
 ## Repositório
 
 https://github.com/matheusferza/portifolio-UGC

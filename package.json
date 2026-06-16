@@ -1,7 +1,7 @@
 {
-  "name": "portfolio-jessica-souza",
+  "name": "portfolio-ugc",
   "version": "1.0.0",
-  "description": "Portfólio profissional de Jéssica Souza, UGC Creator focada em conteúdo autêntico e performance para marcas.",
+  "description": "Portfólio profissional para UGC Creator, com foco em conteúdo autêntico e performance para marcas.",
   "private": true,
   "scripts": {
     "start": "npx serve .",
