@@ -54,9 +54,8 @@ Abra o arquivo `index.html` diretamente no navegador ou publique a pasta em qual
 
 ## Contato configurado
 
-- WhatsApp: `+55 41 99670-7415`
-- E-mail: `jessicapetersen306@gmail.com`
-
+- WhatsApp
+- E-mail
 ## Repositório
 
-https://github.com/matheusferza/portifolio-jessica
+https://github.com/matheusferza/portifolio-UGC
