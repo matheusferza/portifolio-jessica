@@ -1,6 +1,6 @@
-# Portfólio Jéssica Souza
+# Portfólio UGC Creator
 
-Portfólio profissional desenvolvido para apresentar Jéssica Souza como UGC Creator, com foco em conversão, presença digital e comunicação clara para marcas que buscam conteúdo autêntico.
+Portfólio profissional desenvolvido para apresentar uma UGC Creator, com foco em conversão, presença digital e comunicação clara para marcas que buscam conteúdo autêntico.
 
 ## Sobre o projeto
 
